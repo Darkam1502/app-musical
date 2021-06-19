@@ -104,7 +104,7 @@
           i.a.createElement(
             "div",
             { className: "hero-body" },
-            i.a.createElement("div", { className: "container" }, "Musician App")
+            i.a.createElement("div", { className: "container" }, "App Musical")
           )
         );
       }
@@ -422,7 +422,7 @@
                         i.a.createElement(
                           "p",
                           { className: "subtitle is-5" },
-                          "Add and remove musicians using the form below:"
+                          "Agrega o elimina algún musico en el fomrulario de abajo"
                         ),
                         i.a.createElement("br", null),
                         i.a.createElement(
@@ -498,7 +498,7 @@
                                       type: "submit",
                                       className: "button is-primary is-medium",
                                     },
-                                    "Add musician"
+                                    "Agregar Músico"
                                   )
                                 )
                               )
@@ -549,7 +549,7 @@
             i.a.createElement(
               "p",
               null,
-              "Musician App 2019. The source code is licensed MIT. The website content is licensed CC BY NC SA 4.0."
+              "App Musical 2021."
             )
           )
         );
