@@ -104,7 +104,7 @@
           i.a.createElement(
             "div",
             { className: "hero-body" },
-            i.a.createElement("div", { className: "container" }, "App Musical")
+            i.a.createElement("div", { className: "container" }, "App de elastic beanstalk")
           )
         );
       }
