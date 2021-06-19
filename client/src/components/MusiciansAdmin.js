@@ -82,7 +82,7 @@ export default class MusiciansAdmin extends Component {
                       <input 
                         className="input is-medium"
                         type="text" 
-                        placeholder="Enter first name"
+                        placeholder="Agrega el nombre"
                         value={this.state.newmusician.firstName}
                         onChange={this.onAddMusicianFirstNameChange}
                       />
@@ -93,7 +93,7 @@ export default class MusiciansAdmin extends Component {
                       <input 
                         className="input is-medium"
                         type="text" 
-                        placeholder="Enter last name"
+                        placeholder="Agrega el apellido"
                         value={this.state.newmusician.lastName}
                         onChange={this.onAddMusicianLastNameChange}
                       />
@@ -104,7 +104,7 @@ export default class MusiciansAdmin extends Component {
                       <input 
                         className="input is-medium"
                         type="text" 
-                        placeholder="Enter genre"
+                        placeholder="Ingresa el género"
                         value={this.state.newmusician.genre}
                         onChange={this.onAddMusicianGenreChange}
                       />
